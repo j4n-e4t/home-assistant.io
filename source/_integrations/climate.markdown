@@ -30,6 +30,7 @@ The climate entity has extra attributes to represent the state of the thermostat
 | ---- | ----------- |
 | `hvac_action` | Current state: `heating` / `cooling` / `idle`.
 | `fan_mode` | If the fan is currently on or off: `on` / `off`.
+| `temperature_unit` | The unit of the temperature values in the other attributes, such as `current_temperature` and `temperature`. It follows the unit system of your Home Assistant installation: `°C` or `°F`.
 
 It depends on the thermostat you are using which states are available.
 

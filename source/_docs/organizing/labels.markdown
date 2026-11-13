@@ -67,6 +67,15 @@ If you used this label in automations or script as targets, you need to adjust t
 3. Select **Delete**.
 4. If you used this label in automations or script as targets, you need to adjust those.
 
+### Deleting multiple labels
+
+1. Go to {% my labels title="**Settings** > **Areas, labels & zones**" %} and on top, select the **Labels** tab.
+2. Select the {% icon "mdi:format-list-checks" %} **Enter selection mode** button.
+3. Select the labels you want to delete. To select all labels at once, open the selection menu and choose **Select all**.
+4. In the bar at the top of the list, select **Delete selected**.
+5. In the confirmation dialog, select **Delete**.
+6. If you used these labels in automations or scripts as targets, you need to adjust those.
+
 ## Removing labels
 
 1. Go to the data table that contains the element from which you want to remove the label:

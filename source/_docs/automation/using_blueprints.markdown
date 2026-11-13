@@ -105,6 +105,16 @@ If you don't want to [re-import the blueprint](#re-importing-a-blueprint), you c
 
 The new changes will appear to your existing automations as well.
 
+## Deleting blueprints
+
+You can delete blueprints you no longer need. Blueprints that are used by an automation or script can't be deleted. To delete them, first [take control of the automation](#taking-control-of-a-blueprint-automation) or delete the automation or script that uses them.
+
+1. Go to {% my blueprints title="**Settings** > **Automations & scenes** > **Blueprints**" %}.
+2. Select the {% icon "mdi:format-list-checks" %} **Enter selection mode** button.
+3. Select the blueprints you want to delete. To select all blueprints at once, open the selection menu and choose **Select all**.
+4. In the bar at the top of the list, select **Delete selected**.
+5. In the confirmation dialog, select **Delete**.
+
 ## Creating your own blueprint
 
 Using blueprints is nice and easy, but what if you could create that one missing blueprint that our community definitely needs?

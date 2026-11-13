@@ -31,6 +31,14 @@ Home Assistant has a dedicated panel that allows you to manage your tags. You ca
 
 ![Tag user interface in Home Assistant](/images/blog/2020-09-15-home-assistant-tags/tag-ui.gif)
 
+### Deleting multiple tags
+
+1. Go to **Settings** > **Tags**.
+2. Select the {% icon "mdi:format-list-checks" %} **Enter selection mode** button.
+3. Select the tags you want to delete. To select all tags at once, open the selection menu and choose **Select all**.
+4. In the bar at the top of the list, select **Delete selected**.
+5. In the confirmation dialog, select **Delete**.
+
 ## Entities
 
 Every card automatically creates an `tag` entity. This is useful for automations or for displaying on dashboards to see when the card was last scanned.
